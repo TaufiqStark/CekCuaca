@@ -1,4 +1,4 @@
-# Cuaca
+# CekCuaca
 Cek perkiraan cuaca di termux anda dengan simpel
 
 
